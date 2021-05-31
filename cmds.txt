@@ -1,0 +1,5 @@
+***Example usage if repo is in C:\dev and directory with sub-directories which contain lst files is D:\wallet_phrases***
+
+cd /d C:\dev\bitcoinbrainwallet
+
+main_v2.py -d D:\wallet_phrases
